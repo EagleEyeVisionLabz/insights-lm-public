@@ -4,7 +4,7 @@ This is the EagleEyeVisionLabz fork of theaiautomators/insights-lm-public.
 
 ## Role in the stack
 
-- **Open Insights LLM** (this repo) — RAG / NotebookLM-style research over your docs, wired to local Ollama models.
+- **InsightsLM** (this repo) — RAG / NotebookLM-style research over your docs, wired to local Ollama models.
 - **Open Notebook** — separate research notebook app (installing).
 - **Open Knowledge** — LLM wiki / knowledge base.
 - **Płane** — notes.
